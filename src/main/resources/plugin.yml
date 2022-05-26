@@ -1,0 +1,5 @@
+name: AfterBans
+author: 'AfterMC.pl Team'
+version: '@pluginVersion@'
+description: 'Plugin na bany i wyciszanie graczy'
+main: pl.aftermc.bans.AfterBans
